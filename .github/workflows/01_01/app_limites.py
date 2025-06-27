@@ -17,6 +17,9 @@ ax.legend(loc='upper left', fontsize=10, title='Leyenda', title_fontsize='13', s
 
 ax.set_xlabel('Años', fontsize=10, fontweight='bold', color='green')
 ax.set_ylabel('Ventas (Dólares)', fontsize=10, fontweight='bold', color='green')
+ax.set_ylim(40, 250)  # Establecer límites del eje y
+ax.set_xlim(2022, 2024)
+ax.set_xticks(range(2022, 2025)) # El último valor no se incluye, así que pon 2025 para incluir 2024
 ax.set_title('Ventas en dólares de cromos del 2019 al 2024', fontsize=14, fontweight='bold', color='blue', ha='center', pad=20)
 
 plt.show()
