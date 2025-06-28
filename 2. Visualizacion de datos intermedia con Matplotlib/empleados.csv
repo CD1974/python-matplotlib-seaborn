@@ -1,0 +1,144 @@
+Nombre;Edad;Experiencia;Salario;Gerencia;Departamento
+Alexandro;22;3;2423;No;Publicidad2w
+Felipa;26;5;2639;No;Comercial
+Daniel;35;10;3122;No;Comercial
+John;35;13;3431;Sí;Servicios al cliente
+Ruperta;54;18;3962;No;Producto
+Francisca;27;4;2564;No;IT
+Selena;24;6;2709;Sí;Contabilidad
+Ximena;58;24;4532;No;Legal
+David;20;1;1977;No;Recursos Humanos
+Max;39;8;2953;No;Ventas
+Paula;55;12;3306;No;Producto
+Tim;22;4;2518;No;Recursos Humanos
+Gloria;31;11;3267;No;Servicios al cliente
+Jesse;34;11;3257;No;Publicidad
+Ronald;23;5;2695;No;Servicios al cliente
+Manola;40;9;3023;No;IT
+Isabela;66;12;3344;No;Contabilidad
+Herberto;28;3;2391;No;Servicios al cliente
+Lilia;42;16;3796;No;Ventas
+Agustina;21;3;2371;No;Servicios al cliente
+Anselma;18;0;1887;No;Contabilidad
+Lucho;40;3;2385;No;Finanzas
+Maristela;38;11;3256;No;Publicidad
+Gabriela;19;1;1985;No;Producto
+Gabriela;37;13;3409;No;IT
+Olegario;49;5;2626;No;Recursos Humanos
+Berta;65;27;4888;No;IT
+Albino;21;2;2207;No;Comercial
+Albert;28;4;2527;No;Recursos Humanos
+Florina;55;33;5462;No;IT
+Soledad;21;3;2477;No;IT
+Miriam;38;1;1999;No;Contabilidad
+Lucio;54;12;3317;No;Recursos Humanos
+Luisa;29;5;2648;No;Contabilidad
+Regina;19;1;2033;No;Comercial
+Dionisio;47;20;4168;No;Comercial
+Eliseo;36;7;2900;No;Ventas
+Loreto;21;3;2432;No;Producto
+Olivia;26;5;2655;No;Ventas
+Alfonso;32;10;3134;No;Publicidad
+Carlota;25;3;2317;No;Recursos Humanos
+Eligia;24;3;2453;No;Ventas
+Amada;30;3;2443;No;Producto
+Amado;29;2;2221;No;Legal
+Cirino;28;4;2581;No;Comercial
+Joaquina;27;1;2007;No;Comercial
+Herberto;33;12;3364;No;Servicios al cliente
+Susanita;23;2;2228;No;Legal
+Melisa;24;3;2362;No;Legal
+Yolanda;46;1;1939;No;Contabilidad
+Paulino;59;15;3641;No;Legal
+Teodora;71;32;5332;No;Comercial
+Herminia;34;9;3010;No;Publicidad
+Francisco;34;8;2920;No;Reclutamiento
+Pastora;28;5;2631;No;Comercial
+Jose;21;3;2300;No;Servicios al cliente
+Eva;33;8;2931;Sí;Comercial
+Erasmo;37;2;2148;No;Publicidad
+Eliana;28;6;2779;No;Comercial
+Adalberto;21;2;2249;No;Legal
+Luisa;47;9;3020;No;Legal
+Ana;54;8;2953;Sí;Contabilidad
+Aureliano;22;4;2524;No;Publicidad
+Samanta;20;2;2298;No;IT
+Ana;47;5;2625;No;Contabilidad
+Amada;21;2;2274;No;Producto
+Carmelo;29;2;2250;No;Comercial
+Consuelo;24;1;2091;No;Contabilidad
+Teo;23;5;2643;No;Publicidad
+Leandro;21;3;2322;No;Contabilidad
+Fanny;32;7;2843;No;IT
+Dionisia;32;8;2936;Sí;Producto
+Joaquina;54;25;4657;Sí;Producto
+Leire;42;2;2237;No;Recursos Humanos
+Lorenzo;24;3;2335;No;Recursos Humanos
+Hilario;45;10;3166;No;Contabilidad
+Susanita;33;4;2581;No;Recursos Humanos
+Flora;20;2;2256;No;Producto
+Celso;47;15;3646;No;Recursos Humanos
+Luz;29;4;2592;No;Servicios al cliente
+Adelia;25;3;2477;No;Contabilidad
+Francisca;23;2;2270;No;Legal
+Santiago;19;1;1920;No;Legal
+Fulgencio;37;10;3117;No;Finanzas
+Clarisa;56;8;2972;Sí;IT
+Loreto;22;3;2492;No;Producto
+Clara;24;3;2347;No;Comercial
+Soraya;19;1;2037;No;Servicios al cliente
+Reyes;27;4;2508;No;Producto
+Iker;39;11;3287;No;Legal
+Ernesto;51;11;3233;No;Publicidad
+Estela;55;5;2675;No;Servicios al cliente
+Pastora;51;8;2995;Sí;Reclutamiento
+Amancio;46;9;3054;Sí;Recursos Humanos
+Eva;44;12;3373;Sí;Comercial
+Lino;26;5;2662;No;Legal
+Juan;37;3;2325;No;Servicios al cliente
+Adela;21;3;2467;No;Contabilidad
+Eugenio;45;18;3908;No;Ventas
+Daisy;61;8;2902;No;Ventas
+Marta;51;5;2651;No;Comercial
+Elodia;21;3;2462;No;IT
+Emilio;18;0;1872;No;IT
+Kevin;50;8;2985;Sí;Finanzas
+Belen;29;4;2596;No;Contabilidad
+Richard;34;7;2804;No;Servicios al cliente
+Aaron;45;9;3093;Sí;Publicidad
+Douglas;40;6;2735;No;Legal
+Sean;36;2;2114;No;Ventas
+Celia;32;11;3260;No;Comercial
+Angela;19;1;2100;No;IT
+Olga;32;4;2573;No;Legal
+Rafaela;44;11;3292;No;Finanzas
+Corey;58;32;5360;No;Producto
+Otilia;42;8;2990;No;Servicios al cliente
+Shaun;28;6;2796;No;Comercial
+Eric;34;6;2745;No;Ventas
+Daniel;18;0;1875;No;Publicidad
+James;46;20;4154;No;Recursos Humanos
+Gala;40;1;1946;No;IT
+Elena;24;2;2101;No;Legal
+Luna;35;6;2772;No;Recursos Humanos
+Jennifer;22;1;1930;No;Servicios al cliente
+Rosenda;30;4;2596;No;IT
+Odalis;31;2;2262;No;Servicios al cliente
+Felipe;27;3;2456;No;Publicidad
+Jose;30;4;2513;No;Comercial
+Ariel;27;2;2100;No;Legal
+Luis;51;25;4681;No;Comercial
+Lucho;22;4;2507;No;Ventas
+Yesica;19;1;1935;No;Comercial
+Victoriano;20;2;2110;No;Servicios al cliente
+Onofre;18;1;2067;No;IT
+Carina;29;1;1904;No;Producto
+Alicia;24;4;2507;No;Servicios al cliente
+Lupita;44;14;3532;No;Producto
+Soraya;38;4;2546;No;Legal
+Eric;19;1;1964;No;Legal
+Hernando;29;4;2510;No;IT
+Vito;22;4;2530;No;Producto
+Jose;30;6;2760;No;Servicios al cliente
+Marcelo;44;15;3616;No;IT
+Leandro;37;11;3245;No;Finanzas
