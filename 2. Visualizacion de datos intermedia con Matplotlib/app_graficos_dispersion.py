@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df_empleados = pd.read_csv('empleados.csv', delimiter=";")
+df_empleados = pd.read_csv('../../empleados.csv', delimiter=";")
 
 fig, ax = plt.subplots()
 
