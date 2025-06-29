@@ -7,7 +7,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(script_dir, 'altura_peso.csv')
 
 # Cargar el DataFrame desde el archivo CSV
-df_altura_peso = pd.read_csv(csv_path, delimiter=";")
+df_altura_peso = pd.read_csv(csv_path, delimiter=",")
 
 etiquetas = [i + 1 for i in range(len(df_altura_peso['altura']))]
 
