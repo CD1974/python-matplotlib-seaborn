@@ -6,7 +6,7 @@ import pandas as pd
 script_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(script_dir, 'empleados.csv')
 
-df_empleados = pd.read_csv(csv_path, delimiter=";")
+df_empleados = pd.read_csv(csv_path, delimiter=",")
 
 fig, ax = plt.subplots()
 
