@@ -12,7 +12,7 @@ csv_path = os.path.join(script_dir, 'empleados.csv')
 df_empleados = pd.read_csv(csv_path, delimiter=",")
 
 
-df_correlacion = df_empleados.corr()
+df_correlacion = df_empleados[["Edad", "Experiencia", "Salario"]].corr()
 f, ax = plt.subplots()
 
 mask = np.triu(np.ones_like(df_correlacion, dtype=bool))
