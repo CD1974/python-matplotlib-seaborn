@@ -7,7 +7,7 @@ import os
 script_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(script_dir, 'temperaturas.csv')
 
-df_temperaturas = pd.read_csv(csv_path, delimiter=";")
+df_temperaturas = pd.read_csv(csv_path, delimiter=",")
 
 fig, ax = plt.subplots()
 
